@@ -1,0 +1,14 @@
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/bin/Debug/net10.0/AsyncExercise
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/bin/Debug/net10.0/AsyncExercise.deps.json
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/bin/Debug/net10.0/AsyncExercise.runtimeconfig.json
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/bin/Debug/net10.0/AsyncExercise.dll
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/bin/Debug/net10.0/AsyncExercise.pdb
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/obj/Debug/net10.0/AsyncExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/obj/Debug/net10.0/AsyncExercise.AssemblyInfoInputs.cache
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/obj/Debug/net10.0/AsyncExercise.AssemblyInfo.cs
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/obj/Debug/net10.0/AsyncExercise.csproj.CoreCompileInputs.cache
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/obj/Debug/net10.0/AsyncExercise.dll
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/obj/Debug/net10.0/refint/AsyncExercise.dll
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/obj/Debug/net10.0/AsyncExercise.pdb
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/obj/Debug/net10.0/AsyncExercise.genruntimeconfig.cache
+/Users/a.gavin/repos/wbs-exercises/AsyncExercise/obj/Debug/net10.0/ref/AsyncExercise.dll
