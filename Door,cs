@@ -1,0 +1,32 @@
+public class Door
+{
+    // Property with a private setter
+    public bool IsOpen { get; private set; }
+
+    // Method to open the door
+    public void Open()
+    {
+        IsOpen = true;
+        Console.WriteLine("The door is now open.");
+    }
+
+    // Method to close the door
+    public void Close()
+    {
+        IsOpen = false;
+        Console.WriteLine("The door is now closed.");
+    }
+
+    // Method to check status
+    public void Status()
+    {
+        if (IsOpen)
+        {
+            Console.WriteLine("Status: The door is open.");
+        }
+        else
+        {
+            Console.WriteLine("Status: The door is closed.");
+        }
+    }
+}
