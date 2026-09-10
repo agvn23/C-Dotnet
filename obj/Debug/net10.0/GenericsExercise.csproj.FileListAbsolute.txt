@@ -1,0 +1,14 @@
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/bin/Debug/net10.0/GenericsExercise
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/bin/Debug/net10.0/GenericsExercise.deps.json
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/bin/Debug/net10.0/GenericsExercise.runtimeconfig.json
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/bin/Debug/net10.0/GenericsExercise.dll
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/bin/Debug/net10.0/GenericsExercise.pdb
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/obj/Debug/net10.0/GenericsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/obj/Debug/net10.0/GenericsExercise.AssemblyInfoInputs.cache
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/obj/Debug/net10.0/GenericsExercise.AssemblyInfo.cs
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/obj/Debug/net10.0/GenericsExercise.csproj.CoreCompileInputs.cache
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/obj/Debug/net10.0/GenericsExercise.dll
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/obj/Debug/net10.0/refint/GenericsExercise.dll
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/obj/Debug/net10.0/GenericsExercise.pdb
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/obj/Debug/net10.0/GenericsExercise.genruntimeconfig.cache
+/Users/a.gavin/repos/wbs-exercises/GenericsExercise/obj/Debug/net10.0/ref/GenericsExercise.dll
