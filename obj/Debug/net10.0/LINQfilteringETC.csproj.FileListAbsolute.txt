@@ -1,0 +1,14 @@
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/bin/Debug/net10.0/LINQfilteringETC
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/bin/Debug/net10.0/LINQfilteringETC.deps.json
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/bin/Debug/net10.0/LINQfilteringETC.runtimeconfig.json
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/bin/Debug/net10.0/LINQfilteringETC.dll
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/bin/Debug/net10.0/LINQfilteringETC.pdb
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/obj/Debug/net10.0/LINQfilteringETC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/obj/Debug/net10.0/LINQfilteringETC.AssemblyInfoInputs.cache
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/obj/Debug/net10.0/LINQfilteringETC.AssemblyInfo.cs
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/obj/Debug/net10.0/LINQfilteringETC.csproj.CoreCompileInputs.cache
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/obj/Debug/net10.0/LINQfilteringETC.dll
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/obj/Debug/net10.0/refint/LINQfilteringETC.dll
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/obj/Debug/net10.0/LINQfilteringETC.pdb
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/obj/Debug/net10.0/LINQfilteringETC.genruntimeconfig.cache
+/Users/a.gavin/repos/wbs-exercises/LINQfilteringETC/obj/Debug/net10.0/ref/LINQfilteringETC.dll
