@@ -308,6 +308,3 @@ Cooperative cancellation
 Golden rules:
 async all the way — never block with .Result / .Wait()
 Use
-
-
-Source: https://minitoolai.com/Claude/
