@@ -175,5 +175,3 @@ foreach (var r in report)
 
 Want me to go deeper on any part — deferred execution, EF Core translation, PLINQ, or expression trees?
  
-
-Source: https://minitoolai.com/Claude/
