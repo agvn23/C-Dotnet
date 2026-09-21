@@ -289,8 +289,3 @@ Copypublic class Stack<T>
         _items.RemoveAt(_items.Count - 1);
         return last;
     }
-
-
-
-
-Source: https://minitoolai.com/Claude/
