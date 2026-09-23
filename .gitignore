@@ -1,0 +1,28 @@
+# Build outputs
+bin/
+obj/
+
+# Rider settings
+/.idea
+*.user
+*.DotSettings.user
+
+# macOS files
+.DS_Store
+
+# Sensitive information (passwords, connection strings, API keys)
+.env
+appsettings.*.local.json
+
+# Local database files (if using SQLite)
+*.db
+*.db-shm
+*.db-wal
+
+# Log files
+*.log
+logs/
+
+# Personal notes
+/rehber
+/rehber2
