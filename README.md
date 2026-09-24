@@ -187,4 +187,3 @@ curl https://localhost:7186/users/{userId}/posts
 - Async methods prepare for future database integration
 - Business logic is encapsulated in services, not in endpoints
 
-**Repository**: [https://github.com/WebDev-WBSCodingSchool/dotnet-blog-api](https://github.com/WebDev-WBSCodingSchool/dotnet-blog-api)
