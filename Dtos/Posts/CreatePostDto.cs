@@ -1,10 +1,9 @@
+// Dtos/Posts/CreatePostDto.cs
 using System.ComponentModel.DataAnnotations;
 
 namespace BlogApi.Dtos.Posts;
 
 public record CreatePostDto(
-    [property: Required]
-    Guid UserId,
 
     [property: Required]
     [property: StringLength(100, MinimumLength = 1)]
